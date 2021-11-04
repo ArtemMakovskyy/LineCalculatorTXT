@@ -3,7 +3,6 @@ public class CalaculatedText {
         PlusMinus p = new PlusMinus();
         p.rezult("(1+2)*3-(4*(5+6*7)/(8-7))");
         p.rezult(".99+.66546");
-
-
+        p.rezult("-25.99+1.66546");
     }
 }
